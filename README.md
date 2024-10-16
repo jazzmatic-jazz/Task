@@ -23,5 +23,5 @@ To install Project Title, follow these steps:
 
 ## **POSTMAN COLLECTION**
 
-link: https://bold-robot-237718.postman.co/workspace/Assessment~eb79b220-7ad9-4a19-ac44-e970b9543470/collection/20228488-42a2ac66-90d6-4f9c-93b3-4e53c8b36d05?action=share&creator=20228488&active-environment=20228488-e12cdb34-a84c-4651-893c-7559c89c4972
+[Link](https://bold-robot-237718.postman.co/workspace/Assessment~eb79b220-7ad9-4a19-ac44-e970b9543470/collection/20228488-42a2ac66-90d6-4f9c-93b3-4e53c8b36d05?action=share&creator=20228488&active-environment=20228488-e12cdb34-a84c-4651-893c-7559c89c4972)
 
